@@ -346,7 +346,7 @@ return array(
         
         <br />
         
-        <strong>Este programa es software libre y publicado "AS IS" sin ningún tipo de garantía</strong> bajo los términos 
+        <strong>Este programa es software libre y publicado "TAL CUAL" sin ningún tipo de garantía</strong> bajo los términos 
         <a href="../COPYING">GPL Version 3</a>. 
         
         <br /><br />
